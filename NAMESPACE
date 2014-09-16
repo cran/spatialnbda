@@ -1,0 +1,8 @@
+export(FormatData)
+export(mcmc)
+export(nullmcmc)
+export(smcmc)
+export(mcmcre)
+export(rjmcmc)
+importFrom(SocialNetworks,calculateassociations,calculate.areas,calculate.gradedareas)
+importFrom(mvtnorm,rmvnorm,dmvnorm)
